@@ -4,11 +4,15 @@
 # variables
 a=20
 b=30
-s=20+30
-m=20*30
+s=20+30     # s = suma
+m=20*30     # m = multiplicacion
 
 # suma
 print(s)
+print("la suma es: ",a+b)
+print("la suma es: ",s)
 
 # multiplicacion 
 print(m)
+print("la multiplicacion es: ",a*b)
+print("la multiplicacion es: ",m)
