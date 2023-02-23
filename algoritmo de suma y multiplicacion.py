@@ -4,6 +4,11 @@
 # variables
 a=20
 b=30
+s=20+30
+m=20*30
 
 # suma
-print(a+b)
+print(s)
+
+# multiplicacion 
+print(m)
