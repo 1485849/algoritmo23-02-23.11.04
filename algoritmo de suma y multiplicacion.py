@@ -16,3 +16,9 @@ print("la suma es: ",s)
 print(m)
 print("la multiplicacion es: ",a*b)
 print("la multiplicacion es: ",m)
+
+# lectura de datos
+a=int(input("ingrese el primer numero: "))
+b=int(input("ingrese el segundo numero: "))
+print("la suma es: ",a+b)
+print("la multiplicacion es: ",a*b)
